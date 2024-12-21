@@ -7,54 +7,23 @@ A fun and interactive pond-themed game built with JavaScript! Dive into a serene
 * [x] **CSS**
 * [x] **Javascript**
 
-### Before any action create in root directory 
-
-```bash
-.env
-```
-and put there 
-
-```bash
-mongoURI='your link to mlab'
-SECRET='yoursecret'
-```
-
 ### Setup
 
-```bash
-$ git clone or download
-```
+Go to project directory
 
-Go to project direction
-
-Install dependencies for server
+Install dependencies 
 
 ```bash
 $ npm install
 
 ```
 
-Install dependencies for client
+Run the website
 
 ```bash
-$ cd client
-$ npm install
-
-```
-Run server (nodemon)
-
-```bash
-$ nodemon
-
-```
-
-Run server (client)
-
-```bash
-$ cd client
 $ npm start
-
 ```
+
 ### For Support: 
 sarathi2021ai@gmail.com
 
